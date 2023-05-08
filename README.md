@@ -1,10 +1,11 @@
 # Learning AI with GitHub Copilot
 
-Welcome! This repository hosts all the demos that were shown in the *Learning AI with GitHub Copilot* video series, with instructions on how to replicate them on your own.
+Welcome! This repository hosts all the demos that were shown in the [*Learning AI with GitHub Copilot*](https://learn.microsoft.com/shows/learning-ai-with-github-copilot/?WT.mc_id=academic-88213-cacaste) video series, with instructions on how to replicate them on your own.
+**Click on the image below to watch the series on demand.**
 
 <div style="text-align: center;"> 
 
-![Learning AI with GitHub Copilot](./assets/learn-ai-with-copilot.png)
+[![Learning AI with GitHub Copilot](./assets/learn-ai-with-copilot.png)](https://learn.microsoft.com/shows/learning-ai-with-github-copilot/?WT.mc_id=academic-88213-cacaste)
 
 </div>
 
